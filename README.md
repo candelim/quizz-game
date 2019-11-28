@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # kahoot-clone-nodejs
 <h3>INSTRUCTIONS:</h3>
 <ol>
@@ -17,3 +18,7 @@
 <img src="Screenshots/questionResults.png" height="200" width="auto" alt="Question Results"/>
 <img src="Screenshots/hostQuestion.png" height="200" width="auto" alt="Host Question"/>
 <img src="Screenshots/incorrect.png" height="200" width="auto" alt="Player Results"/>
+=======
+# quizz-game
+quizz-game
+>>>>>>> 92a886a3cd11082e67fd21deeda1f49f5bde1864
