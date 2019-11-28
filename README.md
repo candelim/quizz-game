@@ -9,7 +9,9 @@ Este es un projecto basado en [kahoot-clone-nodejs](https://github.com/ethanbrim
 
 ##### Pasos a seguir:
 `$ git clone https://github.com/candelim/quizz-game.git`
+
 `$ cd quizz-game`
+
 `$ docker-compose up -d`
 
 #### Capturas de pantalla
